@@ -1,2 +1,1 @@
-# Devops Bootcamp
-Linux + Networking+ Git +Devops
+# DevOps Git Project
